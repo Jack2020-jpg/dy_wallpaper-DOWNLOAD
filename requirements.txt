@@ -1,0 +1,2 @@
+drissionpage==4.0.5.3
+tqdm==4.67.1
